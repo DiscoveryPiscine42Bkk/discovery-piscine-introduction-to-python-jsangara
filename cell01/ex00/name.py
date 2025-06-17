@@ -1,3 +1,3 @@
-first_name = "first"
-last name = "last"
-print(Jesada,Sangarayakul)
+first_name = "Jesada"
+last name = "Sangarayakul"
+print(first_name, last_name)
